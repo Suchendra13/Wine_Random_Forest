@@ -35,11 +35,11 @@
            1       1.00      1.00      1.00        14
            2       1.00      1.00      1.00        10
 
-    accuracy                           1.00        36
+   * accuracy                           1.00        36
     
-   macro avg       1.00      1.00      1.00        36
+  * macro avg       1.00      1.00      1.00        36
    
-weighted avg       1.00      1.00      1.00        36
+*weighted avg       1.00      1.00      1.00        36
 
 
 ## Libraries Used
